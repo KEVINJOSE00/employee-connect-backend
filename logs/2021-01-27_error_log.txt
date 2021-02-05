@@ -1,0 +1,739 @@
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at runMicrotasks (<anonymous>)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Error: data and hash arguments required
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:208:17)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/promises.js:20:12)
+    at Object.compare (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/bcrypt/bcrypt.js:204:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:41:36
+    at new Promise (<anonymous>)
+    at Object.verifyCredentials (/home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:39:12)
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:15:47)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}

@@ -1,0 +1,104 @@
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}

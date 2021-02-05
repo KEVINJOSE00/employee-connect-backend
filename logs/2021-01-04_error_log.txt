@@ -1,0 +1,30 @@
+
+=================== ERROR =====================
+ ReferenceError: authHelper is not defined
+    at removeSession (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:94:9)
+    at Layer.handle [as handle_request] (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/router/route.js:137:13)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:126:9
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ ReferenceError: loginModel is not defined
+    at removeSession (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:95:9)
+    at Layer.handle [as handle_request] (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/router/route.js:137:13)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/helpers/authHelper.js:126:9
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+
+=================== ERROR =====================
+ Bad Request: Data not found to be deleted
+    at deleteAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:83:44)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 400
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:11:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}

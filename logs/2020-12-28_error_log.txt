@@ -1,0 +1,131 @@
+
+=================== ERROR =====================
+ Bad Request: Bad Request
+    at deleteUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/userController.js:63:19)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 400
+}
+
+=================== ERROR =====================
+ Bad Request: Data not found to be deleted
+    at deleteUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/userController.js:67:23)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 400
+}
+
+=================== ERROR =====================
+ Bad Request: Data not found to be deleted
+    at deleteUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/userController.js:61:23)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 400
+}
+
+=================== ERROR =====================
+ Bad Request: Data not found to be deleted
+    at deleteUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/removeController.js:10:23)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 400
+}
+
+=================== ERROR =====================
+ Bad Request: Data not found to be deleted
+    at deleteUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/removeController.js:10:23)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 400
+}
+
+=================== ERROR =====================
+ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:277:15)
+    at ServerResponse.setHeader (node:_http_outgoing:563:11)
+    at ServerResponse.header (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:267:15)
+    at registerUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/crudController.js:16:13)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+=================== ERROR =====================
+ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:277:15)
+    at ServerResponse.setHeader (node:_http_outgoing:563:11)
+    at ServerResponse.header (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:267:15)
+    at registerUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/crudController.js:16:13)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+=================== ERROR =====================
+ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:277:15)
+    at ServerResponse.setHeader (node:_http_outgoing:563:11)
+    at ServerResponse.header (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:267:15)
+    at registerUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/crudController.js:16:13)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+=================== ERROR =====================
+ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:277:15)
+    at ServerResponse.setHeader (node:_http_outgoing:563:11)
+    at ServerResponse.header (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:267:15)
+    at registerUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/crudController.js:16:13)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+=================== ERROR =====================
+ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:277:15)
+    at ServerResponse.setHeader (node:_http_outgoing:563:11)
+    at ServerResponse.header (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:267:15)
+    at registerUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/crudController.js:16:13)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+=================== ERROR =====================
+ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:277:15)
+    at ServerResponse.setHeader (node:_http_outgoing:563:11)
+    at ServerResponse.header (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:267:15)
+    at registerUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/crudController.js:16:13)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+=================== ERROR =====================
+ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:277:15)
+    at ServerResponse.setHeader (node:_http_outgoing:563:11)
+    at ServerResponse.header (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:267:15)
+    at registerUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/crudController.js:16:13)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+
+=================== ERROR =====================
+ Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:277:15)
+    at ServerResponse.setHeader (node:_http_outgoing:563:11)
+    at ServerResponse.header (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.send (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:170:12)
+    at ServerResponse.json (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/express/lib/response.js:267:15)
+    at registerUser (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/user/crudController.js:16:13)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}

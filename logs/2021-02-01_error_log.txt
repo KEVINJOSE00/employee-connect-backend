@@ -1,0 +1,1282 @@
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjosxxse1997@gmail.com', `designation` = 'QA', `img` = '', `password` = '$2b$10$Cr8ekqDUNkLyRElBcEjF2u67q2V02sl1HnKZQPJ4QpfV0/wLzb912', `uid` = 'emp_Gis5XcbZFeVKcC5ZqGhf'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjosxxse1997@gmail.com', `designation` = 'QA', `img` = '', `password` = '$2b$10$OGQB/vlicYHR84JRfftYQeoUa4fi77e8EI4WhQ4NqEoJgbonSGOOe', `uid` = 'emp_m2cpWpvJ53N91jj3HeCe'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevisanjosxxse1997@gmail.com', `designation` = 'QA', `img` = '', `password` = '$2b$10$uhEIuGx.PbrNDo.6HnUh7.88KhGxzKQNTDoo2hn3d.FiCRzA6T5Xu', `uid` = 'emp_fwmvNMoaTXFZtbrMg7lu'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevisanjosxxse1997@gmail.com', `designation` = 'QA', `img` = '', `password` = '$2b$10$1r6HeQD6Sl8Jm.v5HvJaROiw8B3OF.7QrenCVvZ8iFL5xSuS9knoy', `uid` = 'emp_fwZLnYBiUNrrcE43SnQN'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'sakevisanjosxxse1997@gmail.com', `designation` = 'QA', `img` = '', `password` = '$2b$10$T4gxbDNbugLbbWe4V6MNx.MjXeHQHyGPRRgphz7vqCEa44HelQTPC', `uid` = 'emp_n6gJdXCYawh1s8Sy4Vl4'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'sakevisanjosxxse1997@gmail.com', `designation` = 'QA', `img` = '', `password` = '$2b$10$1mlcsquNw5nnpr1PoIoRGOI9hNZ3NwCwCiWhAJ9HkRXCnF4.FNL1m', `uid` = 'emp_rUChrYj4PhlvKcfF2M5a'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjoefwfwse1997@gmail.com', `designation` = 'WebDeveloper', `img` = '', `password` = '$2b$10$N/8Xkt4XhG7ElBJo7VZ.lufFZtjKCbqbUH/5Yj52hSpKuwfmlQRL2', `uid` = 'emp_vC4PoqPA7Iljcam2S5BV'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjoefwfwse1997@gmail.com', `designation` = 'WebDeveloper', `img` = '', `password` = '$2b$10$btLlTCn1R/rMLgEe5KjNCOF5ZxRLa893bAHVZrwwIR2x8CcPK6JRC', `uid` = 'emp_xuziAtXGljYFXubjzyIZ'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjsaxose1997@gmail.com', `designation` = 'WebDeveloper', `img` = '', `password` = '$2b$10$557A.XOk74Kgpn813MmD2OE.YbMVKj48A2uKa7w8wecc6FN8vhMOG', `uid` = 'emp_kicgsT6G1lmFEcrGKpY4'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjsaxose1997@gmail.com', `designation` = 'WebDeveloper', `img` = '', `password` = '$2b$10$1pzGnPrlzjEH.mcbpRiRT.y3Eo4wvhc5NyGnO7EjFCcbSNV4GLPhq', `uid` = 'emp_YedSleaUvAnbGE9e1n5n'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjsaxose1997@gmail.com', `designation` = 'WebDeveloper', `img` = '', `password` = '$2b$10$7G2wZPLgU5f2rcawsbJ5B.JtEAL53MI4q81uenjAdcdJCY6kTdA8G', `uid` = 'emp_aM87riCCQzfPnuYtRF56'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjsaxose1997@gmail.com', `designation` = 'WebDeveloper', `img` = '', `password` = '$2b$10$XEX4ZqeFzNrNP25OAN8Pxup0OE0JA55DZyrkO7pq9e3vGVKuUn5xK', `uid` = 'emp_F7lVuoNOWTSJTaLnFT3f'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjsaxose1997@gmail.com', `designation` = 'WebDeveloper', `img` = 'https://whipflipnow.s3.amazonaws.com/kevin/wallpaperbetter.com_1920x1080%20%287%29.jpg', `password` = '$2b$10$u1bmW6CRTXkUt/mwA6SzW.xzxBW49.ZCok7.mPnBH306PRxM9b7e2', `uid` = 'emp_HgUqlIBPevwcPM6mAbr1'"
+}
+
+=================== ERROR =====================
+ Error: ER_BAD_FIELD_ERROR: Unknown column 'img' in 'field list'
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:221:26
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlMessage: "Unknown column 'img' in 'field list'",
+  sqlState: '42S22',
+  index: 0,
+  sql: "INSERT INTO Employee SET `firstName` = 'Benny', `lastName` = 'jose', `email` = 'kevinjsaxose1997@gmail.com', `designation` = 'WebDeveloper', `img` = 'https://whipflipnow.s3.amazonaws.com/kevin/wallpaperbetter.com_1920x1080%20%287%29.jpg', `password` = '$2b$10$OBsJxsYvWMyF4ortfrbKbOth94Mpc./9GE2TDgh0m07tPQSA2kZWy', `uid` = 'emp_nr7loBQyoxQiBkqjWivo'"
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kevinjowedwse1997@gmail.com'' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevinjowedwse1997@gmail.com'' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevinjowedwse1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kevinjowedwse1997@gmail.com'' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevinjowedwse1997@gmail.com'' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevinjowedwse1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kevinwdwdjowedwse1997@gmail.' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevinwdwdjowedwse1997@gmail.' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevinwdwdjowedwse1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kevinwdwdjowedwse1997@gmail.' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevinwdwdjowedwse1997@gmail.' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevinwdwdjowedwse1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kevidcsnwdwdjowedwse1997@gma' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevidcsnwdwdjowedwse1997@gma' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevidcsnwdwdjowedwse1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kevidcsnwdwdjowedwse1997@gma' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevidcsnwdwdjowedwse1997@gma' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevidcsnwdwdjowedwse1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kedcsscvinjose1997@gmail.com' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kedcsscvinjose1997@gmail.com' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kedcsscvinjose1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kedcsscvinjose1997@gmail.com' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kedcsscvinjose1997@gmail.com' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kedcsscvinjose1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='nivek1997@gmail.com'' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='nivek1997@gmail.com'' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='nivek1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='nivek1997@gmail.com'' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='nivek1997@gmail.com'' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='nivek1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='nickel1997@gmail.com'' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='nickel1997@gmail.com'' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='nickel1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='nickel1997@gmail.com'' at line 9
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='nickel1997@gmail.com'' at line 9",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    e.img, \n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='nickel1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kevasxaxainjose1997@gmail.co' at line 8
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevasxaxainjose1997@gmail.co' at line 8",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevasxaxainjose1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1 AND e.email='kevasxaxainjose1997@gmail.co' at line 8
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:181:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevasxaxainjose1997@gmail.co' at line 8",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.id\n' +
+    '    ,e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password,\n' +
+    '    e.email,\n' +
+    '    e.designation,\n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    "    WHERE 1 AND e.email='kevasxaxainjose1997@gmail.com'  "
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1' at line 8
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:197:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1' at line 8",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password\n' +
+    '    ,e.email\n' +
+    '    ,e.designation,\n' +
+    '    e.img,\n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    '    WHERE 1'
+}
+
+=================== ERROR =====================
+ Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid
+    FROM Employee e
+    WHERE 1' at line 8
+    at Query.Sequence._packetToError (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:329:20)
+    at addChunk (node:internal/streams/readable:304:12)
+    --------------------
+    at Protocol._enqueue (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at PoolConnection.query (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:198:25)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/server/database_.js:197:28
+    at Ping.onOperationComplete (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Pool.js:110:5)
+    at Ping.<anonymous> (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:526:10)
+    at Ping._callback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/Connection.js:488:16)
+    at Ping.Sequence.end (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at Ping.Sequence.OkPacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/sequences/Sequence.js:92:8)
+    at Protocol._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/mysql/lib/protocol/Parser.js:433:10) {
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',e.uid\n" +
+    '    FROM Employee e\n' +
+    "    WHERE 1' at line 8",
+  sqlState: '42000',
+  index: 0,
+  sql: 'SELECT \n' +
+    '    e.firstName\n' +
+    '    ,e.lastName \n' +
+    '    ,e.password\n' +
+    '    ,e.email\n' +
+    '    ,e.designation,\n' +
+    '    e.img,\n' +
+    '    ,e.uid\n' +
+    '    FROM Employee e\n' +
+    '    WHERE 1'
+}
+
+=================== ERROR =====================
+ ReferenceError: img is not defined
+    at updateAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:74:110)
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}

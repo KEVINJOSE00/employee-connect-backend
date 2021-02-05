@@ -1,0 +1,201 @@
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ SyntaxError: Unexpected token } in JSON at position 144
+    at JSON.parse (<anonymous>)
+    at parse (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/body-parser/lib/types/json.js:89:19)
+    at /home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/raw-body/index.js:224:16)
+    at done (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/home/kevin/Desktop/newagesys/mvc/task-manager/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (node:events:341:22)
+    at endReadableNT (node:internal/streams/readable:1294:12)
+    at processTicksAndRejections (node:internal/process/task_queues:80:21) {
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: '{\n' +
+    '   "designation": "WebDeveloper",\n' +
+    '   "email": "gesorssccge@gmail.com",\n' +
+    '"firstName": "George",\n' +
+    '"lastName": "Jose",\n' +
+    '"password": "1234567", \n' +
+    '   \n' +
+    '}',
+  type: 'entity.parse.failed'
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: The email already exist!
+    at registerAdmin (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/adminController.js:12:41)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}

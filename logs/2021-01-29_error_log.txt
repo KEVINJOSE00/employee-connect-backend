@@ -1,0 +1,28 @@
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
+
+=================== ERROR =====================
+ Not Acceptable: Incorrect username
+    at login (/home/kevin/Desktop/newagesys/mvc/task-manager/controllers/admin/authController.js:13:34)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5) {
+  code: 406
+}
